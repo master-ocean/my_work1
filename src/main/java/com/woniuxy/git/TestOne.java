@@ -10,5 +10,6 @@ public class TestOne {
     public static void main (String[] args) {
         System.out.println("第一次测试");
         System.out.println("hot-fix修改的代码");
+        System.out.println("测试push");
     }
 }
