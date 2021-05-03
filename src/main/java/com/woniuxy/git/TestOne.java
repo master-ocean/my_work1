@@ -12,5 +12,6 @@ public class TestOne {
         System.out.println("hot-fix修改的代码");
         System.out.println("测试push");
         System.out.println("第二次push");
+          System.out.println("pull的测试1");
     }
 }
